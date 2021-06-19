@@ -160,7 +160,7 @@
         <hibernate-jpa-api.version>1.0.1.Final</hibernate-jpa-api.version>
         <hsqldb.version>2.3.2</hsqldb.version>
         <icu4j.version>53.1</icu4j.version>
-        <jackson2.version>2.3.3</jackson2.version>
+        <jackson2.version>2.9.10.7</jackson2.version>
         <jansi.version>1.11</jansi.version>
         <javassist.version>3.18.1-GA</javassist.version>
         <jasig-portlet-utils.version>1.1.0</jasig-portlet-utils.version>
